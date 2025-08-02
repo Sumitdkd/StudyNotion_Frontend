@@ -11,3 +11,4 @@ out/
 *.sqlite
 *.pack
 src/assets/TimeLineLogo/production
+node_modules/
