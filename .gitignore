@@ -1,14 +1,9 @@
-node_modules/
-.cache/
+echo "node_modules/
 dist/
 build/
 .next/
 out/
+.cache/
 *.log
-.env
-*.zip
-*.mp4
-*.sqlite
-*.pack
-src/assets/TimeLineLogo/production
+.env" > .gitignore
 node_modules/
